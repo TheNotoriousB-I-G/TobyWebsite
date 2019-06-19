@@ -1,8 +1,11 @@
 ## Toby is disgusting
 
-You can use the [editor on GitHub](https://github.com/TheNotoriousB-I-G/TobyWebsite/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Toby is a disgusting, cave dweller. He lives in a basement in Blackpool.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Toby Fact File:
+- He doesn't shower
+- He survives on mushed banana skins
+- His best friend is Rohan Sandhu
 
 ### Markdown
 
