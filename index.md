@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Toby is disgusting
 
 You can use the [editor on GitHub](https://github.com/TheNotoriousB-I-G/TobyWebsite/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
